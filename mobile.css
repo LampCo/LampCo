@@ -24,10 +24,7 @@ span {
 
   margin: 0 auto;
 }
-.con1 {
-	
-	overflow: auto;
-}
+
 .titlebar {
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0.0, #535353, color-stop(1.0, #414241)));
     background: -webkit-linear-gradient(top, #535353, #414241);
@@ -81,5 +78,4 @@ h3 {
 .leftbox {
 	display: inline-block;
 	text-align: left;
-	overflow-y: auto;
 }
