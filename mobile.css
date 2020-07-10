@@ -39,8 +39,7 @@ span {
     height: 40px;
     border-top: 1px solid #888988;
     border-bottom: 1px solid #000000;
-    border-top-left-radius: 6px;
-    border-top-right-radius: 6px;
+
     user-select: none;
     -webkit-user-select: none;
     -moz-user-select: none;

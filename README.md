@@ -1,2 +1,2 @@
 # LampCo
-lampco personal webpage
+lex scobey's personal webpage

@@ -88,4 +88,5 @@ h3 {
 	display: inline-block;
 	text-align: left;
 	overflow-y: auto;
+	max-width: 512px;
 }
