@@ -74,15 +74,29 @@ span {
     text-align: center;
 	overflow: auto;
 }
+
+.column{
+	float: left;
+	width: 50%;
+	padding: 1px;
+	max-width: 256px;
+	    margin-left: auto;
+    margin-right: auto;
+}
 h3 {
     margin-top: 0px;
 }
+.obama{
+		padding-left: 12px;
+	padding-right: 12px;
+	vertical-align: top;
+}
 .photo {
-    position: relative;
-    top: -50%;
-    margin: 0 auto;
-    width: 200px;
-    border: 1px solid orange;
+	border-radius: 6px;
+	vertical-align: top;
+}
+.its430am{
+	padding: 15px;
 }
 .leftbox {
 	display: inline-block;
