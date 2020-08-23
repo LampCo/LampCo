@@ -68,11 +68,8 @@ h3 {
     margin-top: 0px;
 }
 .photo {
-    position: relative;
-    top: -50%;
-    margin: 0 auto;
-    width: 200px;
-    border: 1px solid orange;
+	vertical-align: top;
+	padding-bottom: 25px;
 }
 .leftbox {
 	display: inline-block;

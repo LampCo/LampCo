@@ -33,6 +33,21 @@ span {
 	
 	overflow: auto;
 }
+.table {
+  display: table;
+  width: 100%;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.cell {
+  display: table-cell;
+  padding: 0.5em;
+}
 .titlebar {
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0.0, #535353, color-stop(1.0, #414241)));
     background: -webkit-linear-gradient(top, #535353, #414241);
